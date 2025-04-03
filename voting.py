@@ -9,10 +9,11 @@ if age >= 18:
 else:        
             print(f" No! You are not eligible to vote.")
         
-# Voting System
+# Voting Systemp
 name = input("Enter your fullname: ")
 age = int(input("Enter your age: "))
 party = input("Enter the party you want to vote for (party A or party B): ")
+
 
 
 
