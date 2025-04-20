@@ -24,3 +24,11 @@ def guess_game():
     else:
         return "You guessed right"
 print(guess_game())
+
+def check_even_odd(num):
+    if num % 2 == 0:
+        return "Even"
+    else:
+        return "Odd"
+    print(result)
+    
